@@ -11,7 +11,9 @@ A  Pre Final year Electronic and communication engineering student at( ACEIT) Ja
 
 ### Github Stats
 
-![Ankit's Stats](https://github-readme-stats.vercel.app/api?username=ankitraja786&count_private=true&show_icons=true&theme=radical)
+![Ankit's Stats](https://github-readme-stats.vercel.app/api?username=ankitraja786&count_private=true&show_icons=true&theme=radical)|<img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitraja786&theme=radical"/>|
+|---|---|
+
 
 ### Top Language
 
