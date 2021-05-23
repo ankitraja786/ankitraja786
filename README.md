@@ -1,4 +1,4 @@
-<a href="https://media-exp1.licdn.com/dms/image/C4D16AQFMkHlkfCnnng/profile-displaybackgroundimage-shrink_350_1400/0/1585318839496?e=1627516800&v=beta&t=YdsTZRYmUvTZz_fOUwnFDujRorJmrSfohY30NYbeUAY"><img align="center" src="https://raw.githubusercontent.com/ankitraja786/ankit786/main/back.png"/></a>
+
 
 
 ### Hi there 👋
