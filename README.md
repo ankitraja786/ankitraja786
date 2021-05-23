@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I' m Ankit  
-A year Electronic and communication engineering student at( ACEIT) Jaipur with an interest in software Engineering ,Android App development , Machine Learning.
+A  Pre Final year Electronic and communication engineering student at( ACEIT) Jaipur with an interest in software Engineering ,Android App development , Machine Learning.
 
 ### Github Stats
 
