@@ -1,4 +1,7 @@
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ankit</h1>
+<h3 align="center">I'm a passionate Software Developer .</h3>
 
 
 ### Hi there 👋
@@ -21,3 +24,12 @@ A  Pre Final year Electronic and communication engineering student at( ACEIT) Ja
 ### Top Language
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ANKITRAJA786&show_icons=true&theme=radical)
+
+<br/>
+<br/>
+
+<a href="https://github.com/ankitraja786/github-readme-activity-graph"><img alt="ankit Raja's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ankitraja786&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
