@@ -33,3 +33,12 @@ A  Pre Final year Electronic and communication engineering student at( ACEIT) Ja
 <br/>
 <br/>
 
+## 📣 How about an Office quote before you go?
+
+> {office_quote}
+>
+> <p>{office_character}</p>
+
+_Quote requested from [The Office API](https://www.officeapi.dev/)_
+
+Check back at the top of the hour for a new quote!
