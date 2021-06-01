@@ -1,6 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ankit</h1>
+<img src ="https://github.com/ankitraja786/image/blob/main/WhatsApp%20Image%202021-06-01%20at%209.10.48%20AM.jpeg" width="800" height="360">
 <h3 align="center">I'm a passionate Software Developer .</h3>
 
 
