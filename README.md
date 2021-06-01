@@ -31,3 +31,13 @@ A  Pre Final year Electronic and communication engineering student at( ACEIT) Ja
 <br/>
 <br/>
 
+
+## 📣 How about an Office quote before you go?
+
+> I am immensely proud of what I did for that turtle!
+>
+> <p>- Kevin Malone</p>
+
+_Quote requested from [The Office API](https://www.officeapi.dev/)_
+
+Check back at the top of the hour for a new quote!
