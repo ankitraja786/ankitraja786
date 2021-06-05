@@ -34,9 +34,11 @@ A  Pre Final year Electronic and communication engineering student at( ACEIT) Ja
 
 ## 📣 How about an Office quote before you go?
 
-> I am immensely proud of what I did for that turtle!
+>  Disposable cameras are fun, but it seems a little wasteful. You never get to see your pictures. If it's an important event that you want to remember, I recommend using a real camera.
+
+
 >
-> <p>- Kevin Malone</p>
+> <p>- - Erin Hannon</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
