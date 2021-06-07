@@ -34,11 +34,10 @@ A  Pre Final year Electronic and communication engineering student at( ACEIT) Ja
 
 ## 📣 How about an Office quote before you go?
 
->  Disposable cameras are fun, but it seems a little wasteful. You never get to see your pictures. If it's an important event that you want to remember, I recommend using a real camera.
-
+> Two eyes. Two ears. A chin. A mouth. Ten fingers. Two nipples. A butt, two kneecaps, a penis. I've just described to you the Loch Ness monster. And the reward for his capture? All the riches in Scotland. So I have one question: Why are you here?
 
 >
-> <p>- - Erin Hannon</p>
+> <p>- Creed Bratton</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
