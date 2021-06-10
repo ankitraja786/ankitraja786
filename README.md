@@ -34,7 +34,9 @@ A  Pre Final year Electronic and communication engineering student at( ACEIT) Ja
 
 ## 📣 How about an Office quote before you go?
 
-> Two eyes. Two ears. A chin. A mouth. Ten fingers. Two nipples. A butt, two kneecaps, a penis. I've just described to you the Loch Ness monster. And the reward for his capture? All the riches in Scotland. So I have one question: Why are you here?
+> Sometimes I’ll start a sentence, and I don’t even know where it’s going. I just hope I find it along the way.
+
+-
 
 >
 > <p>- Creed Bratton</p>
