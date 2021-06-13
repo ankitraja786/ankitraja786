@@ -1,4 +1,4 @@
-<img src ="https://github.com/ankitraja786/image/blob/main/ankit%20raja.jpg" width="950" height="400">
+<img src ="https://github.com/ankitraja786/image/blob/main/WhatsApp%20Image%202021-06-01%20at%209.10.48%20AM.jpeg" width="950" height="400">
 <h3 align="center">I'm a passionate Software Developer .</h3>
 
 
