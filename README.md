@@ -34,10 +34,10 @@ A  Pre Final year Electronic and communication engineering student at( ACEIT) Ja
 
 ## 📣 How about an Office quote before you go?
 
-> Disposable cameras are fun, but it seems a little wasteful. You never get to see your pictures. If it's an important event that you want to remember, I recommend using a real camera.
+> Once every hour, someone is involved in an internet scam. That man is Michael Scott.
 
 >
-> <p>- Erin Hannon</p>
+> <p>- Pam Beesly</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
