@@ -32,15 +32,10 @@ A  Pre Final year Electronic and communication engineering student at( ACEIT) Ja
 <br/>
 
 
-## 📣 How about an Office quote before you go?
+<br/>
+<br/>
 
-> I know that patience and loyalty are good, and virtuous traits. But sometimes I just think you need to grow a pair.
+<a href="https://github.com/ankitraja786/asdfghjk"><img alt="ankit Raja's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ankitraja786&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-- 
-
->
-> <p>- Angela Martin</p>
-
-_Quote requested from [The Office API](https://www.officeapi.dev/)_
-
-Check back at the top of the hour for a new quote!
+<br/>
+<br/>
